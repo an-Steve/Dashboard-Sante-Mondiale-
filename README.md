@@ -4,7 +4,7 @@ Une application web analytique permettant de visualiser les indicateurs clés de
 
 <img width="1178" height="842" alt="image" src="https://github.com/user-attachments/assets/fd25eaa9-f739-4287-8e69-72c8ab11fc93" />
 
-## 🚀 Démo en direct
+##  Démo en direct
 [👉 Cliquez ici pour voir le Dashboard en ligne](https://an-steve.github.io/Dashboard-Sant-Mondiale-/) 
 
 ---
