@@ -52,6 +52,4 @@ Outil permettant de sélectionner jusqu'à 5 pays pour comparer leurs performanc
 2.  Ouvrez `index.html` dans votre navigateur.
 
 ---
-Réalisé par **ANTON NELCON Steve**
-
 **Réalisé par :** ANTON NELCON Steve
