@@ -1,4 +1,4 @@
-#  Dashboard Santé Mondiale (Interactif)
+#  Dashboard Santé Mondiale 
 
 Une application web analytique permettant de visualiser les indicateurs clés de santé publique mondiale à travers des graphiques dynamiques et une cartographie interactive.
 
